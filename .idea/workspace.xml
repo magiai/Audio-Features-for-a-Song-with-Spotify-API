@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0342d5be-8a19-4504-98b0-62613e326422" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/myMotive/js/próba.js" afterPath="" />
-    </list>
+    <list default="true" id="0342d5be-8a19-4504-98b0-62613e326422" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,6 +178,14 @@
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="myMotive" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="projekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projekt" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="myMotive" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -220,12 +226,12 @@
       <updated>1511514797440</updated>
       <workItem from="1511514799978" duration="6398000" />
       <workItem from="1511723515393" duration="140000" />
-      <workItem from="1512586118941" duration="830000" />
+      <workItem from="1512586118941" duration="990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8195000" />
+    <option name="totallyTimeSpent" value="8355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
