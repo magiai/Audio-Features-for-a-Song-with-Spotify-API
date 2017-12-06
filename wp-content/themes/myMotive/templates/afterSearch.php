@@ -1,24 +1,24 @@
 
 
 <div class = "afterSearch">
-    <div>
-        <p class="danceability"></p>
+    <div class="danceability">
+
     </div>
 
-    <div>
-        <p class="energy"></p>
+    <div class="energy">
+
     </div>
 
-    <div>
-        <p class="valence"></p>
+    <div class="valence">
+
     </div>
 
-    <div>
-        <p class="tempo"></p>
+    <div class="tempo">
+
     </div>
 
-    <div>
-        <p class="mode"></p>
+    <div class="mode">
+
     </div>
 
     <div>
