@@ -22,7 +22,7 @@ We need to install Node.js package. Here is the instruction: https://nodejs.org/
 https://user-images.githubusercontent.com/31245275/33682312-5db919b2-dac7-11e7-86ea-c273b45c3c89.png
 
 
-## Deployment
+### Deployment
 
 The deployment is almost impossible due to the short life of the access token. 
 
